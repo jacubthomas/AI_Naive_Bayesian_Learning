@@ -1,0 +1,4 @@
+baseball113	101
+graphic  84	101
+politic  115	101
+space  96	101
